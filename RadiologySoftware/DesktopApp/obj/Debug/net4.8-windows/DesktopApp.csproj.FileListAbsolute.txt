@@ -1,0 +1,16 @@
+C:\Users\Edwin\Desktop\RadiologySoftware\DesktopApp\obj\Debug\net4.8-windows\DesktopApp.csproj.AssemblyReference.cache
+C:\Users\Edwin\Desktop\RadiologySoftware\DesktopApp\obj\Debug\net4.8-windows\DesktopApp.FormLogin.resources
+C:\Users\Edwin\Desktop\RadiologySoftware\DesktopApp\obj\Debug\net4.8-windows\DesktopApp.Loginform.resources
+C:\Users\Edwin\Desktop\RadiologySoftware\DesktopApp\obj\Debug\net4.8-windows\DesktopApp.MainWindows.resources
+C:\Users\Edwin\Desktop\RadiologySoftware\DesktopApp\obj\Debug\net4.8-windows\DesktopApp.Modules.CentralFacturacion.resources
+C:\Users\Edwin\Desktop\RadiologySoftware\DesktopApp\obj\Debug\net4.8-windows\DesktopApp.Modules.CentralPacientesForm.resources
+C:\Users\Edwin\Desktop\RadiologySoftware\DesktopApp\obj\Debug\net4.8-windows\DesktopApp.Modules.CentralRadiografia.resources
+C:\Users\Edwin\Desktop\RadiologySoftware\DesktopApp\obj\Debug\net4.8-windows\DesktopApp.Modules.CentralSeguros.resources
+C:\Users\Edwin\Desktop\RadiologySoftware\DesktopApp\obj\Debug\net4.8-windows\DesktopApp.Modules.FacturacionForm.resources
+C:\Users\Edwin\Desktop\RadiologySoftware\DesktopApp\obj\Debug\net4.8-windows\DesktopApp.Modules.PacientesForms.resources
+C:\Users\Edwin\Desktop\RadiologySoftware\DesktopApp\obj\Debug\net4.8-windows\DesktopApp.SplashForm.SplashForm.resources
+C:\Users\Edwin\Desktop\RadiologySoftware\DesktopApp\obj\Debug\net4.8-windows\DesktopApp.csproj.GenerateResource.cache
+C:\Users\Edwin\Desktop\RadiologySoftware\DesktopApp\obj\Debug\net4.8-windows\DesktopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edwin\Desktop\RadiologySoftware\DesktopApp\obj\Debug\net4.8-windows\DesktopApp.AssemblyInfoInputs.cache
+C:\Users\Edwin\Desktop\RadiologySoftware\DesktopApp\obj\Debug\net4.8-windows\DesktopApp.AssemblyInfo.cs
+C:\Users\Edwin\Desktop\RadiologySoftware\DesktopApp\obj\Debug\net4.8-windows\DesktopApp.csproj.CoreCompileInputs.cache
