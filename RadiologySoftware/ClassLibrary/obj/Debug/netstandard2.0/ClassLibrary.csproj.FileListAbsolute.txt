@@ -1,0 +1,3 @@
+C:\Users\Edwin\Desktop\RadiologySoftware\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Edwin\Desktop\RadiologySoftware\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edwin\Desktop\RadiologySoftware\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache

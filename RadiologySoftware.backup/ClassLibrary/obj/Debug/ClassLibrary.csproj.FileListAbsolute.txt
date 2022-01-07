@@ -1,0 +1,15 @@
+C:\Users\Edwin\Desktop\RadiologySoftware\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Edwin\Desktop\RadiologySoftware\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Edwin\Desktop\RadiologySoftware\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Desktop\RadiologySoftware\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Edwin\Desktop\RadiologySoftware\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Edwin\Desktop\RadiologySoftware\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Edwin\Desktop\RadiologySoftware.backup\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Edwin\Desktop\RadiologySoftware.backup\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Edwin\Desktop\RadiologySoftware.backup\ClassLibrary\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Edwin\Desktop\RadiologySoftware.backup\ClassLibrary\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Edwin\Desktop\RadiologySoftware.backup\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Edwin\Desktop\RadiologySoftware.backup\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Desktop\RadiologySoftware.backup\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
+C:\Users\Edwin\Desktop\RadiologySoftware.backup\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Edwin\Desktop\RadiologySoftware.backup\ClassLibrary\obj\Debug\ClassLibrary.pdb

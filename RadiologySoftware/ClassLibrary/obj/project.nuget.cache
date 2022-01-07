@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9QCH04x55MCd3T44pGb2j3MGJW9UgZI0i7/OBk9S3liX1fueiniD1cOdhjo6TmLxHDNAbLsJP7LAvc/cYfCOxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Edwin\\Desktop\\RadiologySoftware\\ClassLibrary\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Edwin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Edwin\\.nuget\\packages\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers\\0.3.256001\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers.0.3.256001.nupkg.sha512",
+    "C:\\Users\\Edwin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Edwin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Edwin\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

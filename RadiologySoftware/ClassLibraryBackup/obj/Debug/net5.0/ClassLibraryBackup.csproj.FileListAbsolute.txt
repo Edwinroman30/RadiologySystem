@@ -1,0 +1,12 @@
+C:\Users\Edwin\Desktop\RadiologySoftware\ClassLibraryBackup\bin\Debug\net5.0\ClassLibraryBackup.deps.json
+C:\Users\Edwin\Desktop\RadiologySoftware\ClassLibraryBackup\bin\Debug\net5.0\ClassLibraryBackup.dll
+C:\Users\Edwin\Desktop\RadiologySoftware\ClassLibraryBackup\bin\Debug\net5.0\ref\ClassLibraryBackup.dll
+C:\Users\Edwin\Desktop\RadiologySoftware\ClassLibraryBackup\bin\Debug\net5.0\ClassLibraryBackup.pdb
+C:\Users\Edwin\Desktop\RadiologySoftware\ClassLibraryBackup\obj\Debug\net5.0\ClassLibraryBackup.csproj.AssemblyReference.cache
+C:\Users\Edwin\Desktop\RadiologySoftware\ClassLibraryBackup\obj\Debug\net5.0\ClassLibraryBackup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edwin\Desktop\RadiologySoftware\ClassLibraryBackup\obj\Debug\net5.0\ClassLibraryBackup.AssemblyInfoInputs.cache
+C:\Users\Edwin\Desktop\RadiologySoftware\ClassLibraryBackup\obj\Debug\net5.0\ClassLibraryBackup.AssemblyInfo.cs
+C:\Users\Edwin\Desktop\RadiologySoftware\ClassLibraryBackup\obj\Debug\net5.0\ClassLibraryBackup.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Desktop\RadiologySoftware\ClassLibraryBackup\obj\Debug\net5.0\ClassLibraryBackup.dll
+C:\Users\Edwin\Desktop\RadiologySoftware\ClassLibraryBackup\obj\Debug\net5.0\ref\ClassLibraryBackup.dll
+C:\Users\Edwin\Desktop\RadiologySoftware\ClassLibraryBackup\obj\Debug\net5.0\ClassLibraryBackup.pdb
